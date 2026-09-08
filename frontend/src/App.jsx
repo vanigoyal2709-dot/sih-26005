@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import AlertBanner from './components/layout/AlertBanner';
 import Header from './components/layout/Header';
 
-import Hero from './components/dashboard/Hero';
+import Hero from './components/dashboard/hero';
 import TempGauge from './components/dashboard/TempGauge';
 import TargetControl from './components/dashboard/TargetControl';
 import StatusCard from './components/dashboard/StatusCard';
